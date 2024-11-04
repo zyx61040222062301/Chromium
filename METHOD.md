@@ -8,7 +8,22 @@
       cd chromium
       git fetch
       ```
-   2. 如果你想在更新仓库时将 master 分支中的代码取出，请将 .git 中的 config 文件替换为此仓库的 [config](https://github.com/github201014/Chromium/blob/main/config) 文件，再执行以下命令：
+   2. 如果你想在更新仓库时将 master 分支中的代码取出，请将 .git 中的 config 文件替换为以下内容，再执行以下命令：
+      ```
+      [core]
+    	repositoryformatversion = 0
+    	filemode = false
+    	bare = false
+    	logallrefupdates= true
+    	symlinks = false
+    	ignorecase = true
+      [remote "origin"]
+	   url = https://github.com/chromium/chromium.git
+	   fetch = +refs/heads/*:refs/remotes/origin/*
+      [branch "master"]
+	   remote = origin
+	   merge = refs/heads/master
+      ```
    
       ```bash
       cd chromium
