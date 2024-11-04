@@ -3,8 +3,7 @@
 
 下载链接：
 
-1. https://www.123865.com/s/kPxoTd-YbnxH
-2. https://www.123684.com/s/kPxoTd-YbnxH
+123 云盘下载链接已失效，下载链接会在 2024-11-10 之前公布。
 
 仓库配置说明：
 
