@@ -8,7 +8,7 @@
       cd chromium
       git fetch
       ```
-   2. 如果你想在更新仓库时将 master 分支中的代码取出，请将 .git 中的 config 文件替换此仓库的 config 文件，再执行以下命令：
+   2. 如果你想在更新仓库时将 master 分支中的代码取出，请将 .git 中的 config 文件替换此仓库的 [config](https://github.com/zyx61040222062301/Chromium/tree/main/config) 文件，再执行以下命令：
       ```bash
       cd chromium
       git checkout master
