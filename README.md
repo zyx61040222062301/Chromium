@@ -1,5 +1,5 @@
 # Chromium
-Chromium Project 的公共 Git 仓库镜像（使用 `git clone https://github.com/chromium/chromium.git --mirror` 命令），每 4 ~ 6 个月更新一次。
+[Chromium Project](https://github.com/chromium/chromium) 的公共 Git 仓库镜像（使用 `git clone https://github.com/chromium/chromium.git --mirror` 命令），每 4 ~ 6 个月更新一次。
 
 下载链接：
 
