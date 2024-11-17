@@ -9,3 +9,7 @@
 仓库配置说明：
 
 https://github.com/zyx61040222062301/Chromium/blob/main/METHOD.md
+
+镜像仓库：
+1. （自己搭建）https://gitee.com/MICRO201014_enterprise/chromium.git
+2. （官方）https://gitee.com/mirrors/chromium.git
